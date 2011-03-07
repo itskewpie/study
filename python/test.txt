@@ -1,0 +1,4 @@
+push "route #{MANAGEMENT_NETWORK} #{MANAGEMENT_NETMASK}"
+'ddddd'
+eddf
+
